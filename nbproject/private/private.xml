@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/models/Proizvod.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/controllers/NewServlet.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/filter/KorisnikFilter.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/controllers/PregledKupnjeSviServlet.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/web/index.jsp</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/filter/AdministratorFilter.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/web/prijava.jsp</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/controllers/KosaaricaDodajServlet.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/controllers/PregledKupnjeServlet.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/web/pregledKupnjeSvi.jsp</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/DAL/Repo.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/controllers/PregledKupnjeDetaljiServlet.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/controllers/PrijavaServlet.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/controllers/HomeServlet.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/filter/LoginFilter.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/models/ProizvodID.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/web/kosarica.jsp</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/web/registracija.jsp</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/web/proizvodi.jsp</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/web/pregledSpajanja.jsp</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/controllers/OdjavaServlet.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/models/Racun.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/web/pregledKupnje.jsp</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/controllers/ProizvodServlet.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/web/WEB-INF/web.xml</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/models/Kupac.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/controllers/PrikazSpajanjaServlet.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/controllers/KosaricaZavrsiKupnjuServlet.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/web/proizvod.jsp</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/web/pregledKupnjeDetalji.jsp</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/models/RacunViewModel.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/models/Stavka.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/controllers/KosaricaMakniServlet.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/controllers/RegistracijaServlet.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/controllers/KategorijaServlet.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/models/KosaricaViewModel.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/models/KupacViewModel.java</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/conf/MANIFEST.MF</file>
+            <file>file:/G:/JavaWeb/webshop/WebShop/src/java/controllers/KosaricaUrediServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
